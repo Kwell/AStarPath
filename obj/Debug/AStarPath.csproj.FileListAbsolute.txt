@@ -1,2 +1,7 @@
 F:\CSharpWork\AStarPath\AStarPath\bin\Debug\AStarPath.exe.config
 F:\CSharpWork\AStarPath\bin\Debug\AStarPath.exe.config
+E:\CSharpWork\AStarPath\bin\Debug\AStarPath.exe.config
+E:\CSharpWork\AStarPath\bin\Debug\AStarPath.exe
+E:\CSharpWork\AStarPath\bin\Debug\AStarPath.pdb
+E:\CSharpWork\AStarPath\obj\Debug\AStarPath.exe
+E:\CSharpWork\AStarPath\obj\Debug\AStarPath.pdb
